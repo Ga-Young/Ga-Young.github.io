@@ -1,9 +1,9 @@
 ---
+layout: post
 title: "Hello GitBlog!"
 date: 2020-06-28
-categories: confirm
 ---
-Hi!
+'alt ('깃블로그 시작!')'
 ​```python
 def print_hi(name):
   print("hello", name)
