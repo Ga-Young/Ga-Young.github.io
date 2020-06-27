@@ -1,12 +1,12 @@
 # Site settings
 title: Do Coding
-description: Ga-young does Doding
+description: Ga-young does Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Ga-Young.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Ga-Young
-user_description: I'm a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. 
+user_description: ""
 user_title: Software Engineer
 email: rkdudwydkv@gmail.com
 # twitter_username: lorem_ipsum
